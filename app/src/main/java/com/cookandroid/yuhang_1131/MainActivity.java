@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("youn", "Dongho");
         Log.d("youn", "Im Mac M1");
         Log.d("youn", "Im Mac M2");
+        Log.d("youn", "Final Test");
+
     }
 }
