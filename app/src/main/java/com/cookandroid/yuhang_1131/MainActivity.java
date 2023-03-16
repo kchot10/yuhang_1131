@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("youn", "Im desktop");
         Log.d("youn", "Dongho");
+        Log.d("youn", "Im Mac M1");
     }
 }
