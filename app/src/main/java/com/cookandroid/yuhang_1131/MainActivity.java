@@ -11,8 +11,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         Log.d("youn", "Im desktop");
         Log.d("youn", "Dongho");
         Log.d("youn", "Im Mac M1");
+        Log.d("youn", "Im Mac M2");
     }
 }
